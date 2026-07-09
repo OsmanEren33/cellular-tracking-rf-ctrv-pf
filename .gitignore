@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+*.xlsx
+*.xls
+*.csv
+*.pkl
+*.joblib
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
